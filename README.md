@@ -1,12 +1,12 @@
-## Why using dual-repo? 
-  This way we can seperate the concern of:  
+## Why use dual-repo? 
+  This way we can seperate the concerns of:  
   1) website maintenance  
   2) website content contributors  
 
   Ideally, we should have a larger group of content contributors, i.e. the whole division, but it would be more harmful to have everyone synchronized with the fully rendered repo.  
 
 ## How to work on the dual-repo website? 
-  Despites it's name, dual-repo solution actually involves 3 git repositories:  
+  Despites its name, the dual-repo solution actually involves 3 git repositories:  
   1) fully rendered static repo (only pushed using ``deploy.sh`` by the web master)
   2) This repo: the generating repo, controlled and maintained by the web master
   3) content repo: `./content`
