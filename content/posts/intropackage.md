@@ -1,5 +1,6 @@
 +++
 title =  "Intro Package"
+date = "2019-02-20"
 categories = ["intro-pack"]
 tags = ["document"]
 featured_image = ""
@@ -25,13 +26,15 @@ The consequences of these options are:
 3. **E** (not clicking on anything) implies that you will get an allowance for meal _M_. Note, however, that the allowance is a fixed amount: you do not get reimbursed what you paid exactly (and hence you do not need to keep receipts of meal expenses).
 
 ## Book a trip via egencia online
+[TODO] Update info for new travel agency!
+
 [Register](http://go.egencia.com/R00y00fT0X003000FrYu6S0)
 The first attempt for registration usually fails :), don't get disappointed, try again
 
 [Booking](http://chalmers.egencia.se/app?service=external&page=Login&mode=form&market=SE)
 Email address to ask questions or order via email: Team3.got@viaegencia.com
 
-## Gym & massage expense refund (LRS)
+## Health expense refund
 [Chalmers Plus](http://plus.portal.chalmers.se/)
 
 [Benify](https://www.benify.se/fps/welcomeCustomer.do?nav.id=520)
@@ -47,7 +50,7 @@ Email address to ask questions or order via email: Team3.got@viaegencia.com
 [Map (online/app)](http://maps.chalmers.se/) To find rooms
 
 ## Booking Rooms
-** To book a room you need to create and event in the exchange calendar (after loggining to [webmail client](https://webmail.chalmers.se)) and mark the room as an attendee.  **
+** To book a room you need to create an event in the exchange calendar (after loggining to [webmail client](https://webmail.chalmers.se)) and mark the room as an attendee.  **
 
 
 ## Room Availability
@@ -60,14 +63,14 @@ In order to have (at least in the outlook-chalmers-webmail UI) the calendar of a
 
 
 
-# Student union
-[Paying for student uninon card](http://medlem.chs.chalmers.se)
+# Chalmers student union
+[Paying for student union card](http://medlem.chs.chalmers.se)
 ** Student union card is REQUIRED for taking an exam **
 While you can delay the payment of student uninon membership fee (meaning that you wouldn't get card as well), it is encouraged to pay the membership fee since the uninon card actually provides you additional benefits such as discounts and so on. 
 
 
 ## Discount (Apple, Swebus, Comviq, Tele2, Tre, SF Cinema, Adlibris, ...)
-[Mecent](https://mecenat.com/se/) SJ and vastraffik do have discount with student union card even if you are above 26.
+[Mecenat](https://mecenat.com/se/) SJ and vastraffik do have discount with student union card even if you are above 26.
 Bus 16 and 55 (Main stations: Chalmers, Chalmers Tvärgatan - Brunsparken - Lindholem) are also available for 300 SEK (6 months period card)
 
 You can install an app to browse through discounts.

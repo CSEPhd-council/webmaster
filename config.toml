@@ -1,8 +1,9 @@
-
 title = "CSE PhD council"
-
 copyright = "Copyright 2019 CSE PhD council"
+publishdir = "../publish"
+
+theme = "hugo-theme-bootie-docs"
 
 [params]
-  description = "Hello, fellow CSE PhD students! Welcome to the PhD council website :)"
+  description = "Hello, fellow CSE PhD students! Welcome to the PhD council website :) We are in the process of updating this site, some links may be broken in the meantime (2019-02-20)"
   DateForm = "02 Jan 2006"

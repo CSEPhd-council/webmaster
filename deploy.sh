@@ -4,11 +4,11 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 # if using a theme, replace with `hugo -t <YOURTHEME>`
-hugo -t hugo-theme-bootie-docs 
+hugo -t hugo-theme-bootie-docs
 
-# Go To Public folder
-cd public
-# Add changes to git.
+# Go to static site folder (which has https://github.com/CSEPhd-council/CSEPhd-council.github.io as its upstream repo)
+cd ../publish
+# Add changes to git repo
 git add .
 
 # Commit changes.
@@ -21,5 +21,5 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-# Come Back up to the Project Root
-cd ..
+# Come back to the project root
+cd ../webmaster

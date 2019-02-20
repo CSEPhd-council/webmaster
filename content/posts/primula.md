@@ -1,18 +1,17 @@
 +++
 title =  "Primula"
+date  = "2019-02-20"
 tags = ["document"]
 categories = ["Intro-pack"]
 +++
 
 ## Report vacations, leave, expenses
 
-You report vacation application, leave, expenses compensations in  
-[Primula](https://personal.portal.chalmers.se/chalmers/)
+Chalmers employees use the 
+[Primula](https://personal.portal.chalmers.se/chalmers/) portal to apply for vacation days and leave, report sick days, and apply to be compensated for travel expenses and other expenses. 
 
-login: CID
-
-password: CID password
+You log in with your CID username and password.
 
 Here you can also check how many vacation days you have left (or accumulated), your employment statements and records. 
 
-Do not forget to keep you *Persona Data* page up-to-date (in particular when you move)
+Do not forget to keep you *Personal Data* page up-to-date (in particular if you move to a new address).
