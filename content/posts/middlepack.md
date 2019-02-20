@@ -1,6 +1,5 @@
 +++
 title =  "useful links (general)"
-date = 2017-11-24T14:17:25+01:00
 tags = ["document"]
 categories = ["Intro-pack"]
 +++

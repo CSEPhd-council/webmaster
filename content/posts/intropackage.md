@@ -1,6 +1,5 @@
 +++
 title =  "Intro Package"
-date = 2017-11-24T14:17:25+01:00
 categories = ["intro-pack"]
 tags = ["document"]
 featured_image = ""
