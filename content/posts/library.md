@@ -1,16 +1,17 @@
 +++
 title =  "Library"
+date  = "2019-03-20"
 tags = ["document"]
-categories = ["Intro-pack"]
+categories = ["At the start of your PhD"]
 +++
 
-## Access material when you off-campus
+## Access material when off-campus
 
 ## Add your publications to CLP
 
 ## Books
 You can request and access material such as books and articles you need for you research at the [Library website](http://www.lib.chalmers.se/en/search/purchase-suggestions-and-interlibrary-loans/) 
-You can request/recommand a (paper/online) book for library. (the book doesn't necessary need to be relavant to your research area).
+You can request/recommand a (paper/online) book for library. (the book doesn't necessary need to be relevant to your research area).
 
 
 **Lending times:**

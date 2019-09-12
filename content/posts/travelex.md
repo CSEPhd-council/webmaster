@@ -1,21 +1,22 @@
 +++
 title =  "Travelling as a Chalmers' Employee"
+date = "2019-03-20"
 tags = ["document"]
-categories = ["mid-pack"]
+categories = ["General Information"]
 +++
 
 ## Travel Approval
 
 **Before you go:** Find out cost estimate, check with your supervisor if your project can cover the cost. 
-Fill in the new [e-form](https://docs.google.com/forms/d/e/1FAIpQLSdZDN5LPn2lget_3JQWUJImnJMx5TM7WjClmOJmVl2TIcMoyQ/viewform) 
-(the form will be sent to your line manager for signature and to your division secretary for reference).  
-Book the travel using the Chalmers (or GU) travel agent ([egencia](https://idp.chalmers.se/adfs/ls/?SAMLRequest=hZHNbsIwEIRfxfI9cf5KwCJBtKgqElURhB56qRzHBkuJnWYd6OPXAiLBhR5XnvHMfjud%2FTY1OooOlNEZDv0AI6G5qZTeZ3hXvHpjPMunwJo6aum8twe9ET%2B9AIucUQO9vGS47zQ1DBRQzRoB1HK6nb%2BvaOQHtO2MNdzUGM0BRGdd1IvR0Dei24ruqLjYbVYZPljbAiXkdDr5Yu9aKOZz0xDmUskxJMw5JeN28GK0cD2UZvbcfbCrqvX5gdVOAT4IwioJpAaC0XKR4e%2BEJ6kUcTouR2WVBDJOJzKNZcWCciTLUDoZQC%2BWGizTNsNREKZeGHpRUoQxfZrQJPEnUfqF0fq61rPSF1yPGJQXEdC3olh7649tgdHngN0J8BUyPad3t3Qff8wGpDj%2FB%2BCU3Cbk1%2FH%2Bqvkf&RelayState=Y2FsbEJhY2tVUkw6PTphSFIwY0hNNkx5OTNkM2N1WldkbGJtTnBZUzV6WlM5aGNIQS9jMlZ5ZG1salpUMWxlSFJsY201aGJDWndZV2RsUFV4dloybHVKbTF2WkdVOVptOXliU1p0WVhKclpYUTlVMFU9X3xfY29tcGFueUlkOj06QUg0aDZEREhUUjRTSzhJRkdPZVkwUV98X3NvdXJjZTo9OlJWVT1ffF92YW5pdHlVcmw6PTpvRTVqcWE3djJCUTBKLTJZOXFNTTk5VVFTemJJdEtyTy15ZVNmQ2dQUVN3)). 
+Fill in a [BTA form](https://docs.google.com/forms/d/e/1FAIpQLSdZDN5LPn2lget_3JQWUJImnJMx5TM7WjClmOJmVl2TIcMoyQ/viewform) 
+(the form will be sent to your division head for signature and to your division secretary for reference).  
+Book the travel using the Chalmers (or GU) travel agent (Lingmerths). 
 
 **Travel:** Enjoy it, pay with your Chalmers MasterCard or in other ways, just remember to keep receipts for any non-food expense (e.g. taxi, train tickets..)
 
 **After:** To be refunded, fill in a travel-expenses claim in [primula](https://personal.portal.chalmers.se/chalmers/) 
-within *one month*. Send all your receipts to LRS using one of the large yellow folders available in the post-room on the 4th floor, 
-cross away the previous addressee and write LRS, close the folder and leave it on the 'outgoing internal mail' pile.
+within *one month*. Send all your receipts to LRS using one of the large yellow envelopes available in the post-room on the 4th floor, 
+cross away the previous addressee and write LRS, close the envelope and leave it on the 'outgoing internal mail' bin.
 
 **Mortal deadline:** after *three months* the claim is no longer payable. 
 
@@ -35,10 +36,6 @@ The consequences of these options are:
 
 
 
-# Book a trip via egencia online
+# Book a trip via Lingmerths online
 
-[Register](http://go.egencia.com/R00y00fT0X003000FrYu6S0)
-The first attempt for registration usually fails :), don't get disappointed, try again
-
-[Booking](http://chalmers.egencia.se/app?service=external&page=Login&mode=form&market=SE)
-Email address to ask questions or order via email: Team3.got@viaegencia.com costumer service is better when you email them. 
+Chalmers travel agency for booking business travel is Lingmerths. See info here on [Insidan](http://www.chalmers.se/insidan/EN/news/news/articles/new-travel-agency).

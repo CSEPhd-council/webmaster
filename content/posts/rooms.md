@@ -1,33 +1,27 @@
 +++
 title =  "Rooms"
+date = "2019-03-22"
 tags = ["document"]
-categories = ["mid-pack"]
+categories = ["General information"]
 +++
 
 ## Rooms
 
-To find the location of rooms on campus you can go to [Map (online/app)](http://maps.chalmers.se/) or download the app for smart phones. 
+To find the location of rooms on campus you can go to [Map (online/app)](http://maps.chalmers.se/) or download the Chalmers map app for smartphones. 
 
 
 ## Booking a room
-To book a room you need to create and event in the exchange calendar of that room. 
+To book a room you need to create an event in the exchange calendar for that room. 
 
-Log in to [webmail client](https://webmail.chalmers.se)). 
+Log in to the Outlook [webmail client](https://webmail.chalmers.se)), go to the **Calendar** tab and click on **new** to create a new event. 
 
-Mark the room (and the other people involved in the meeting) as an **attendee**. 
-
+Click on 'Add a location or a room' and then 'Add room' and you will see which rooms are available at the chosen time.
+Choose your preferred room (and add any people you'd like to invite to the meeting), you then book the room (and invite the people) by clicking 'Send'.
 
 **procedure to book rooms directly from your calendar app** 
 Adding a room to your calendar 'followers' enables you to check the availability of a room and book it directly from your calendar app (e.g. it works smoothly with iCal). 
 
-In order to have (at least in the outlook-chalmers-webmail UI) the calendar of a Chalmers room:
-
-1. Enter the webmail client and go into the **People** tab
-2. Under the **Directory** section, (once opened) you find **Chalmers Room**
-3. Add the room that you are interested as contacts (I suggest to have all of them into a list of contacts)
-4. In the **Calendar** tab, you now can search the room name (**as a person**) and it will appear (It is important to search "as people" otherwise you just search in your calendar events)
-
-
+You can also book the 'corner' rooms on the 5th and 6th floors by writing on the whiteboard on the door of the respective room.
 
 # Virtual room
 The 'corner' room on the 4th floor has a wonderful conference equipment, with excellent webcam and good audio. 

@@ -1,7 +1,8 @@
 +++
 title = "Exams"
+date  = "2019-03-20"
 tags = ["document"]
-categories = ["mid-pack"]
+categories = ["General Information"]
 +++
 
 ## Exam Registration / Check registered credits 
@@ -11,8 +12,8 @@ categories = ["mid-pack"]
 - enter your cid + password 
 - click on: "Examination, sign-up/cancel sign up" / "Create transcript of records, postgraduate studies" 
 
-**(important : make sure you are in the Doctoral Portal! If you end up in the Student Portal "your account doesn't have permission to use the service”)**
+**(important : make sure you are in the Doctoral Portal! If you end up in the Student Portal "your account doesn't have permission to use the service")**
 
 
 ## Course schedules, room info
-In [Time-edit](https://se.timeedit.net/web/chalmers/db1/public/##) you can find information on *when* and *where* a course is given at Chalmers
+In [Time-edit](https://se.timeedit.net/web/chalmers/db1/public/##) you can find information on *when* and *where* a course is given at Chalmers.

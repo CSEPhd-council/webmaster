@@ -1,7 +1,8 @@
 +++
 title =  "Printing / Printers"
+date  = "2019-03-20"
 tags = ["document"]
-categories = ["Intro-pack"]
+categories =  ["At the start of your PhD"]
 +++
 
 
@@ -9,12 +10,9 @@ categories = ["Intro-pack"]
 [Web interface to printers](https://print.chalmers.se/auth/uploadme.cgi)
 You can use web interface to see nearby printers, download drivers or directly send pdf, txt files to be printed.
 
-# Ubuntu installation (tested on 14.x, 12.x)
-[Download Drivers](http://print.chalmers.se/drivers/)
+# Setup on linux with SMB (tested on Ubuntu 18.x, 16.x, 14.x, 12.x)
 
-- in "system-config-printer" type  smb://print.chalmers.se/cse-ed-5473-laser1 (or your printer address)
-- add corresponding driver file (*.PDD). It fails to authenticate first, but you can set the password here when you look at printer queue.
-- username: NET/CID
+See instructions [here](https://student.portal.chalmers.se/en/contactservice/ITServices/self-administered/linux/printing/Sidor/connect-to-printer.aspx).
 
 # Printing via ipp/kerberos:
 Copy `krb5.conf` in this repository to `/etc/krb5.conf` and
