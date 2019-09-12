@@ -1,10 +1,11 @@
 +++
 title =  "Software"
+date  = "2019-03-20"
 tags = ["document"]
-categories = ["Intro-pack"]
+categories = ["At the start of your PhD"]
 +++
 
-## Free commercial softwares
+## Free commercial software
 Worth looking (OS and utitily software(antivirus) and domain specific softwares like MATLAB and ...)
 Windows share:
 
@@ -23,7 +24,7 @@ Different version of Windows (even ancient DOS), SQL server and visual studio an
 
 
 ##Box account
-As a Chalmers employee you get access to a Box account, which is like Dropbox, but larger (32GB?). 
+As a Chalmers employee you get access to a Box account (similar to Dropbox). 
 To start using it:
 
 - [box](https://www.box.com/en-gb/home): 

@@ -1,7 +1,8 @@
 +++
 title =  "Internet"
+date  = "2019-03-20"
 tags = ["document"]
-categories = ["Intro-pack"]
+categories = ["At the start of your PhD"]
 +++
 
 ## Wireless access to eduroam

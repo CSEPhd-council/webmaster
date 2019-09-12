@@ -1,7 +1,8 @@
 +++
-title =  "Emails"
+title =  "Email and software"
+date = "2019-03-22"
 tags = ["document"]
-categories = ["mid-pack"]
+categories = ["General information"]
 +++
 
 ## Setting up your Chalmers email account
@@ -26,7 +27,7 @@ categories = ["mid-pack"]
 - On the first page, use 'CID@chalmers.se'
 - Domain: NET
 - Server: webmail.chalmers.se
-// Note: if you found some information page from Chalmers website saying the server "m.outlook.com", that is intended for Chalmers student
+// Note: if you found some information page from Chalmers with the server name "m.outlook.com", that is intended for Chalmers student accounts.
 
 # Thunderbird/Outlook/Exchange integration
 Tools -> addon -> "Lightning"
