@@ -17,3 +17,4 @@ categories = ["General Information"]
 
 ## Course schedules, room info
 In [Time-edit](https://se.timeedit.net/web/chalmers/db1/public/##) you can find information on *when* and *where* a course is given at Chalmers.
+

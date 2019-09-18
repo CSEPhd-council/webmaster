@@ -39,3 +39,5 @@ The consequences of these options are:
 # Book a trip via Lingmerths online
 
 Chalmers travel agency for booking business travel is Lingmerths. See info here on [Insidan](http://www.chalmers.se/insidan/EN/news/news/articles/new-travel-agency).
+
+[//]: # (TODO: Review this guide, update if needed. Maybe add screenshots?)

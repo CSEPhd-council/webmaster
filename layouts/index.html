@@ -7,7 +7,18 @@
 	<!-- Main jumbotron for a primary marketing message or call to action -->
 
 		<h2>{{ .Site.Title }}</h2>
-		<img src="council_Members.png" style="width:100%;padding:5px 10px;">
+		<table id="council-member-pictures-table">
+			<tr>
+				<td><img src="carlo.jpg"></td>
+				<td><img src="solrun.jpg"></td>
+				<td><img src="herbert.jpg"></td>
+			</tr>
+			<tr>
+				<td><img src="magnus.jpg"></td>
+				<td><img src="irene.jpg"></td>
+				<td><img src="roc.jpg"></td>
+			</tr>
+		</table>
 		<p>{{ with .Site.Params.description }}{{ . }}{{ else }}You can customize this text by params "description" in your <code>config.toml</code>.{{ end }}</p>
 
 </div>

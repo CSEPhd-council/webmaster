@@ -14,6 +14,10 @@ You can use web interface to see nearby printers, download drivers or directly s
 
 See instructions [here](https://student.portal.chalmers.se/en/contactservice/ITServices/self-administered/linux/printing/Sidor/connect-to-printer.aspx).
 
+# Setup on Windows
+
+[//]: # (TODO!)
+
 # Printing via ipp/kerberos:
 Copy `krb5.conf` in this repository to `/etc/krb5.conf` and
 run:

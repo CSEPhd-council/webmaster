@@ -15,3 +15,5 @@ You log in with your CID username and password.
 Here you can also check how many vacation days you have left (or accumulated), your employment statements and records. 
 
 Do not forget to keep you *Personal Data* page up-to-date (in particular if you move to a new address).
+
+[//]: # (TODO: Add more info on how to use primula or links to pages where it's explained)

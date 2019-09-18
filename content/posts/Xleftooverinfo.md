@@ -56,3 +56,14 @@ Some things are not possible to do using the UI, such as removing labs. For this
 Contributors: 
 - Hamid Ebadi
 - Daniel Schoepe
+
+
+
+
+[//]: # (TODO: Add info on PDB (PersonDatabas)???)
+
+[//]: # (TODO: Add info on Canvas???)
+
+[//]: # (TODO: Add Ladok!!)
+
+

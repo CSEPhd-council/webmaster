@@ -11,15 +11,17 @@ categories = ["General Information"]
 As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness. 
 This can be done through a portal called [Benify](https://www.benify.se/fps/welcomeCustomer.do?nav.id=520). There you can directly buy discounted gym memberships, book massages, etc, making use of your wellness refund. You can also send in receipts and be reimbursed, see below: 
 
-# How to claim expenses and be refund
+[//]: # (TODO: Is still Benify or is it now doktor.se?)
 
-	- go to [insidan](http://www.chalmers.se/insidan) 
-	- on the right-most column select *Chalmers Plus* in the menu under 'E-tjanst', clic *visa*
-	- insert CID and CID-password
-	- click on 'wellness receipts'
-	- follow instruction on how to register a receipt (useful instructions in english also under 'How do I register my expenses?'
-	- print the form and attach your original receipt
-	- send it to LRS using an envelop in the post room (put it in the outgoing internal mail pile)
+### How to claim expenses and to get refunds
+
+1. Go to [insidan](http://www.chalmers.se/insidan) 
+1. On the right-most column select *Chalmers Plus* in the menu under 'E-tjanst', clic *visa*
+1. Insert CID and CID-password
+1. Click on 'wellness receipts'
+1. Follow instruction on how to register a receipt (useful instructions in english also under 'How do I register my expenses?'
+1. Print the form and attach your original receipt
+1. Send it to LRS using an envelop in the post room (put it in the outgoing internal mail pile)
 
 ## Chalmers discounts
 

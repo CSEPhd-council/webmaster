@@ -7,7 +7,11 @@ categories = ["At the start of your PhD"]
 
 ## Access material when off-campus
 
+[//]: # (TODO!)
+
 ## Add your publications to CLP
+
+[//]: # (TODO!)
 
 ## Books
 You can request and access material such as books and articles you need for you research at the [Library website](http://www.lib.chalmers.se/en/search/purchase-suggestions-and-interlibrary-loans/) 

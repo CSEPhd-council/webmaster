@@ -1,0 +1,9 @@
+#council-member-pictures-table {
+    margin: 0 auto;
+    margin-bottom:1em;
+}
+
+#council-member-pictures-table img {
+    margin: 1em;
+    border: 2px solid black;
+}

@@ -6,29 +6,26 @@ categories = ["At the start of your PhD"]
 +++
 
 ## Free commercial software
-Worth looking (OS and utitily software(antivirus) and domain specific softwares like MATLAB and ...)
+Worth looking (OSs and domain specific softwares like MATLAB, Mathematica, MS Office, ETC)
+
 Windows share:
 
-- smb://syros.ce.chalmers.se
-- \\\\syros.ce.chalmers.se
+- \\\\itupw001.cse.chalmers.se\distb\
+
+[//]: # (TODO: check for linux!)
 
 - Domain: NET
 - username: CID
 
-[syros directory tree](syrosdirtreed3.txt) output of "tree -L 3 -d" on smb://syros.ce.chalmers.se/program/
-
 ## Microsoft tools
-Different version of Windows (even ancient DOS), SQL server and visual studio and more. You need to specify your university (Chalmers).
+[Microsoft On-The-Hub](https://chalmers.onthehub.com/) Some versions of Windows, MS Office Home/Professional, utitily software (antivirus), Parallels Desktop for Mac, and many others (The software offered might change).
 
-[Microsoft tools](https://onthehub.com/microsoftimagine) Almost everything except MS-Office which is accessable from SYROS server.
-
-
-##Box account
+## Box account
 As a Chalmers employee you get access to a Box account (similar to Dropbox). 
 To start using it:
 
 - [box](https://www.box.com/en-gb/home): 
  - select 'sign-in' (top right)
  - type in CID@chalmers.se
- - click on 'Sign in with SSP' 
+ - click on 'Sign in with SSO' 
  - type in 'Chalmers', click ad log in with your CID and CID password
