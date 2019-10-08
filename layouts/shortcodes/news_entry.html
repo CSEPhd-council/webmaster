@@ -1,0 +1,15 @@
+
+<div class="news-entry">
+    {{ with $linkname := .Get "link" }}
+        {{ with $link := (index (union (where $.Site.Pages "Title" $linkname ) (where $.Site.Pages "File.TranslationBaseName" $linkname )) 0) }}
+            <a href="{{ $link.RelPermalink }}">
+        {{ end }}
+    {{ end }}
+        <h3>{{ .Get "title" }}</h3>
+        <div class="news-content">
+            {{ .Inner }}
+        </div>
+    {{ with .Get "link" }}
+    </a>
+    {{ end }}
+</div>

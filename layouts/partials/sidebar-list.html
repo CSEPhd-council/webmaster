@@ -6,7 +6,7 @@
 		{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
 			<li>
 				<a href="{{ $baseUrl }}/categories/{{ $name | urlize }}">
-					<span class="doc-list-category">{{ $name | title }}</span>
+					<span class="doc-list-category">{{ $name | humanize | title }}</span>
 				</a>
 				<ul>{{ range $taxonomy.Pages }}
 					<li><a href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }} #Draft{{ end }}</a></li>

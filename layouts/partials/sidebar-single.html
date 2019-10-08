@@ -17,7 +17,7 @@
 		{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
 			<li>
 				<a href="{{ $baseUrl }}/categories/{{ $name | urlize }}">
-					<span class="doc-list-category">{{ $name | title }}</span>
+					<span class="doc-list-category">{{ $name | humanize | title }}</span>
 				</a>
 				<ul>{{ range $taxonomy.Pages }}
 					<li>{{ if eq $url .Permalink }}

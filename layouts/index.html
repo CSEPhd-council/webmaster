@@ -3,46 +3,42 @@
 
 <main role="main">
 
-<div class="row">
+<div class="row doc-main">
 	<!-- Main jumbotron for a primary marketing message or call to action -->
-
-		<h2>{{ .Site.Title }}</h2>
-		<table id="council-member-pictures-table">
-			<tr>
-				<td><img src="carlo.jpg"></td>
-				<td><img src="solrun.jpg"></td>
-				<td><img src="herbert.jpg"></td>
-			</tr>
-			<tr>
-				<td><img src="magnus.jpg"></td>
-				<td><img src="irene.jpg"></td>
-				<td><img src="roc.jpg"></td>
-			</tr>
-		</table>
-		<p>{{ with .Site.Params.description }}{{ . }}{{ else }}You can customize this text by params "description" in your <code>config.toml</code>.{{ end }}</p>
+	<h1>{{ .Site.Title }}</h1>
+	<p>{{ with .Site.Params.description }}{{ . | markdownify }}{{ else }}You can customize this text by params "description" in your <code>config.toml</code>.{{ end }}</p>
 
 </div>
 
-{{ range where .Site.Pages "Title" "_index" }}
+<p></p>
+
+{{ range first 1 (where .Site.Pages "Title" "News") }}
+	{{ if (ne (countwords .Content) 0) }}
 	<div class="row doc-main">
-		<p class="doc-entry-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></p>
+		<h2>News</h2>
 		{{ .Content }}
+		<p class="doc-entry-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></p>
 	</div>
+	{{ end }}
 {{ end }}
+
 
 <div class="row doc-category">
 	<h2>Pro-tips: common FAQs</h2>
 	<div>
 		<ul class="doc-list-category">
-		{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-			<li>
+		
+		<!-- Hacking this to appear in this specific order for better visibility -->
+		{{ range $name := (slice "get-involved" "general-information" "at-the-start-of-your-phd" "at-the-end-of-your-phd") }}
+			{{ $taxonomy := $.Site.Taxonomies.categories.Get $name }}
+			<li class="home-card">
 				<a href="{{ $baseUrl }}/categories/{{ $name | urlize }}">
-					<span class="doc-list-category">{{ $name | title }}</span>
+					<span class="doc-list-category">{{ $name | humanize | title }}</span>
 				</a>
 				<ul>{{ range $taxonomy.Pages }}
 					<li><a href="{{ .RelPermalink }}">
 						<span>{{ .Title }}{{ if .Draft }} #Draft{{ end }}</span>
-						<span class="doc-entry-meta">(<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>)
+						<span class="doc-entry-meta"><!--(<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>)-->
 					</span>
 				</a></li>
 				{{ end }}
@@ -53,13 +49,30 @@
 	</div>
 </div>
 
-{{ $title := .Site.Title }}
-{{ with .Site.Params.withSitePosts }}
-<hr />
+<div class="row">
+	<!-- Main jumbotron for a primary marketing message or call to action -->
 
-<div class="row doc-main text-center">
-	<a href="{{ $baseUrl }}/post">See posts for {{ $title }}</a>
+	<h2>The Council</h2>
+	<table id="council-member-pictures-table">
+		<tr>
+			<td><a href="https://www.chalmers.se/en/Staff/Pages/brunetta.aspx" target="_blank"><img src="carlo.jpg" /></a></td>
+			<td><a href="https://www.chalmers.se/en/staff/Pages/slrn.aspx" target="_blank"><img src="solrun.jpg" /></a></td>
+			<td><a href="https://www.gu.se/omuniversitetet/personal/?userId=xlangh" target="_blank"><img src="herbert.jpg" /></a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.chalmers.se/en/staff/Pages/magnus-agren.aspx" target="_blank"><img src="magnus.jpg" /></a></td>
+			<td><a href="https://www.chalmers.se/en/staff/Pages/lobo.aspx" target="_blank"><img src="irene.jpg" /></a></td>
+			<td><a href="https://www.chalmers.se/en/staff/Pages/roc-ramon.aspx" target="_blank"><img src="roc.jpg" /></a></td>
+		</tr>
+	</table>
+
 </div>
+
+{{ range where .Site.Pages "Title" "_index" }}
+	<div class="row doc-main">
+		<p class="doc-entry-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time></p>
+		{{ .Content }}
+	</div>
 {{ end }}
 
 </main>

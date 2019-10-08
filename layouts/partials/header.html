@@ -46,7 +46,7 @@
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Categories<span class="caret"></span></a>
 						<ul class="dropdown-menu" role="menu">
 						{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-							<li><a href="{{ $baseUrl }}/categories/{{ $name | urlize }}">{{ title $name }}</a></li>
+							<li><a href="{{ $baseUrl }}/categories/{{ $name | urlize }}">{{ $name | humanize | title }}</a></li>
 						{{ end }}
 						</ul>
 					</li>

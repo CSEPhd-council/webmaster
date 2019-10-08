@@ -7,3 +7,19 @@
     margin: 1em;
     border: 2px solid black;
 }
+
+.home-card {
+    display: inline-block;
+    width: 22%;
+    min-height: 10em;
+    vertical-align: top;
+    margin-right: 1%;
+    margin-left: 1%;
+    padding: 0.5em;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.home-card .doc-list-category {
+    font-weight: bold;
+}
