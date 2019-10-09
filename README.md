@@ -1,22 +1,29 @@
 ## Why use dual-repo? 
-  This way we can seperate the concerns of:  
-  1) website maintenance  
-  2) website content contributors  
+  It's easier to work with github pages this way, since the webpage needs to be published from master. Working with different branches to do this ends up being a pain.
 
-  Ideally, we should have a larger group of content contributors, i.e. the whole division, but it would be more harmful to have everyone synchronized with the fully rendered repo.  
+## Initial Setup
+  1. Clone both this repository and the one at https://github.com/CSEPhd-council/CSEPhd-council.github.io in the same directory, this one named `webmaster`, the other one you should name `publish`.
+  2. Make sure to either clone this repository with `--recursive` or to run `git submodule update --init --recursive` after cloning to get the website's layout & theme.
+  3. Get Hugo: 
+    - [Instructions for MacOs, Linux, BSD](https://gohugo.io/getting-started/installing)
+    - [Download for Windows](https://github.com/gohugoio/hugo/releases) the relevant zip and move the contents to `tools/` to have it easily accessible and not have to add it to your path.
 
-## How to work on the dual-repo website? 
-  Despites its name, the dual-repo solution actually involves 3 git repositories:  
-  1) fully rendered static repo (only pushed using ``deploy.sh`` by the web master)
-  2) This repo: the generating repo, controlled and maintained by the web master
-  3) content repo: `./content`
+## How to work on the dual-repo website?
+
+### Editing
+  - You can preview your changes by running `hugo serve` (`tools/hugo serve` in Windows) from the root of the webmaster repo. This will start a local server you can access at `//localhost:1313`.
+  - Create new posts/pages in the `content/` directory. To have them properly published you need to add the *frontmatter*. See one of the already present posts for an example.
+    - Right now only the categories "Get Involved" "General Information" "At the Start of Your PhD" "At the End of Your PhD" will show up in the home page.
+  - The content in the **News** section in the homepage can be edited from `content/news/index.md`.
   
-
-## As a web master? 
-  You should inherit the access right to the rendered repo & this one (see section above) from your predecessor.  
-  On top of this, make sure you also clone the `./content` correctly.  
-  As a web master your job is to (to some degree) keep an eye on the `./content` material before hitting the `deploy.sh`  
-  
+### Publishing
+  - Once you have made changes, make sure to commit and push them to github so everyone can work from those later. If you have some changes you are working with not ready to be published, commit to a different branch and push it if you want. Make sure to merge it to master when they are ready to be published.
+  - Run `hugo` to generate the website. This will generate and save the files for the site in `../publish` (that's configured in `config.toml`).
+  - Go to the `publish` repo you cloned, commit and push the git repository (you should make sure the changes you made are okay, just in case). After that, the updated website should be available momentarily at https://csephd-council.github.io/
 
 ## As a contributor? 
-  Well, you should NOT be here! take a look at the [content repo]().  
+  You can mark things that need improving with a TODO comment in markdown. The following should be in its own line:
+
+```
+[//]: # (TODO: description here)
+```
