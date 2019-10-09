@@ -1,23 +1,27 @@
-#council-member-pictures-table {
+#council-member-pictures {
     margin: 0 auto;
-    margin-bottom:1em;
+    max-width: 620px;
 }
 
-#council-member-pictures-table img {
-    margin: 1em;
+#council-member-pictures img {
     border: 2px solid black;
+    display: block;
+    margin: 1em auto;
 }
 
 .home-card {
-    display: inline-block;
-    width: 22%;
     min-height: 10em;
     vertical-align: top;
-    margin-right: 1%;
-    margin-left: 1%;
     padding: 0.5em;
     border-radius: 5px;
     border: 1px solid black;
+    font-size: 1.3em;
+}
+
+.col-sm-3 {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
 }
 
 .home-card .doc-list-category {
