@@ -1,7 +1,9 @@
 
+{{/* This partial shortcode creates an internal link to a post. Requires a "title" parameter. If passed a "link" parameter it will try to find a page with that string as the page title or page filename. */}}
+{{/*  */}}
 <div class="news-entry">
     {{ with $linkname := .Get "link" }}
-        {{ with $link := (index (union (where $.Site.Pages "Title" $linkname ) (where $.Site.Pages "File.TranslationBaseName" $linkname )) 0) }}
+        {{ with $link := (index (union (where $.Site.RegularPages "Title" $linkname ) (where $.Site.RegularPages ".File.TranslationBaseName" $linkname )) 0) }}
             <a href="{{ $link.RelPermalink }}">
         {{ end }}
     {{ end }}
@@ -10,6 +12,6 @@
             {{ .Inner }}
         </div>
     {{ with .Get "link" }}
-    </a>
+        </a>
     {{ end }}
 </div>
