@@ -15,7 +15,8 @@
 	<link rel="stylesheet" href="{{ $baseUrl }}/css/theme.css">
 	<link rel="stylesheet" href="{{ $baseUrl }}/css/bootie-docs.css">
 	<link rel="stylesheet" href="{{ $baseUrl }}/css/site.css">
-	<link rel="stylesheet" href="{{ $baseUrl }}/css/council.css">
+	{{ $council_css := resources.Get "css/council.css" | resources.Minify | resources.Fingerprint }}
+	<link rel="stylesheet" href="{{ $council_css.Permalink }}">
 </head>
 
 <body role="document">
