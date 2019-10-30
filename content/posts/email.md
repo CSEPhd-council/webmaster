@@ -33,15 +33,3 @@ categories = ["General information"]
 Tools -> addon -> "Lightning"
 
 [Exchange calendar](https://github.com/Ericsson/exchangecalendar/releases) Get direct access to Chalmers ldap contacts in thunderbird using this extension
-
-
-[//]: # (TODO: move to its own page or to the Software section)
-
-# Free commercial services
-- [Sharelatex](https://sharelatex.com/)
-- [Bitbucket](http://bitbucket.com)
-- [Github](http://github.com)
-- [Box](http://box.com)
-- [Prezi](http://prezi.com)
-
-[//]: # (TODO: Add more things!)

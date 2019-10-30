@@ -29,3 +29,14 @@ To start using it:
  - type in CID@chalmers.se
  - click on 'Sign in with SSO' 
  - type in 'Chalmers', click ad log in with your CID and CID password
+
+
+# Free commercial services
+- [Overleaf](https://overleaf.com/)
+- [GitLab](http://gitlab.com)
+- [Bitbucket](http://bitbucket.com)
+- [Github](http://github.com)
+- [Box](http://box.com)
+- [Prezi](http://prezi.com)
+
+[//]: # (TODO: Add more things!)
