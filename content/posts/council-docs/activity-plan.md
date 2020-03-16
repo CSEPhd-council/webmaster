@@ -3,6 +3,7 @@ title = "Activity Plan"
 date = "2019-10-29"
 tags = ["document"]
 categories = ["Council Documents"]
+weight = 100
 +++
 
 This activity plan outlines the items and issues which the council plans to work on during its term in 2019-2020. This is a high-level, strategic plan of activities.
