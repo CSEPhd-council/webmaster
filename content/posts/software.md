@@ -1,24 +1,21 @@
 +++
 title =  "Software"
-date  = "2019-03-20"
+date  = "2020-03-17"
 tags = ["document"]
 categories = ["At the start of your PhD"]
 +++
 
-## Free commercial software
-Worth looking (OSs and domain specific softwares like MATLAB, Mathematica, MS Office, ETC)
+## Commercial Software Available
 
-Windows share:
+Here you will find instructions to get programs such as several Affinity tools, Adobe tools, Matlab, Office, etc.
+https://it.portal.chalmers.se/itportal/GenAnst/SoftwareGeneral#anvisningar
 
-- \\\\itupw001.cse.chalmers.se\distb\
+If you need other software, talk with your supervisor or with Technical Support (you can find them at the bottom of [this page](https://www.chalmers.se/en/departments/cse/organisation/Pages/localsupport.aspx))
 
-[//]: # (TODO: check for linux!)
-
-- Domain: NET
-- username: CID
 
 ## Microsoft tools
 [Microsoft On-The-Hub](https://chalmers.onthehub.com/) Some versions of Windows, MS Office Home/Professional, utitily software (antivirus), Parallels Desktop for Mac, and many others (The software offered might change).
+
 
 ## Box account
 As a Chalmers employee you get access to a Box account (similar to Dropbox). 
@@ -31,12 +28,20 @@ To start using it:
  - type in 'Chalmers', click ad log in with your CID and CID password
 
 
-# Free commercial services
-- [Overleaf](https://overleaf.com/)
-- [GitLab](http://gitlab.com)
-- [Bitbucket](http://bitbucket.com)
-- [Github](http://github.com)
-- [Box](http://box.com)
-- [Prezi](http://prezi.com)
+## Other Software used at Chalmers
+
+Here you can find some more software and cloud services that Chalmers provides to employees:
+
+https://intranet.chalmers.se/en/tools-support/e-services/
+
+
+## Free commercial services
+
+- [Overleaf](https://overleaf.com/) online editor for LaTeX
+- [GitLab](http://gitlab.com) repositories
+- [Bitbucket](http://bitbucket.com) repositories
+- [Github](http://github.com) repositories
+- [Box](http://box.com) file sharing
+- [Prezi](http://prezi.com) slide presentations
 
 [//]: # (TODO: Add more things!)

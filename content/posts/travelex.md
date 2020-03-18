@@ -1,14 +1,21 @@
 +++
-title =  "Travelling as a Chalmers' Employee"
-date = "2019-03-20"
+title =  "Traveling as a Chalmers' Employee"
+date = "2020-03-17"
 tags = ["document"]
 categories = ["General Information"]
 +++
 
+## Chalmer's Guidelines
+
+In the following link you can find the official guide from chalmers to book a trip: https://intranet.chalmers.se/en/tools-support/general-support-services/conferences-meetings-business-travel/business-travels/book-a-trip/
+
+This link gives the basic guidelines for what expenses are covered and how you should pay for them and register them: https://intranet.chalmers.se/en/tools-support/general-support-services/conferences-meetings-business-travel/business-travels/expenses-travel-bill-and-entertainment/
+
+
 ## Travel Approval
 
 **Before you go:** Find out cost estimate, check with your supervisor if your project can cover the cost. 
-Fill in a [BTA form](https://docs.google.com/forms/d/e/1FAIpQLSdZDN5LPn2lget_3JQWUJImnJMx5TM7WjClmOJmVl2TIcMoyQ/viewform) 
+Fill in a [BTA form](https://docs.google.com/forms/d/e/1FAIpQLSdZDN5LPn2lget_3JQWUJImnJMx5TM7WjClmOJmVl2TIcMoyQ/viewform) (*This form might be outdated, ask your division secretary just in case*)
 (the form will be sent to your division head for signature and to your division secretary for reference).  
 Book the travel using the Chalmers (or GU) travel agent (Lingmerths). 
 
@@ -21,7 +28,7 @@ cross away the previous addressee and write LRS, close the envelope and leave it
 **Mortal deadline:** after *three months* the claim is no longer payable. 
 
 
-# How to fill in the report:
+## How to fill in the report:
 
 - For each meal _M_ on each day there are three options:
     1. Checking box **with meal benefits** (**B**): choose this option if meal _M_ is included as part of another fee (for example, a lunch that is included in a conference registration fee) **and** _M_ is not a breakfast.
@@ -36,8 +43,6 @@ The consequences of these options are:
 
 
 
-# Book a trip via Lingmerths online
+## Book a trip via Lingmerths online
 
 Chalmers travel agency for booking business travel is Lingmerths. See info here on [Insidan](http://www.chalmers.se/insidan/EN/news/news/articles/new-travel-agency).
-
-[//]: # (TODO: Review this guide, update if needed. Maybe add screenshots?)

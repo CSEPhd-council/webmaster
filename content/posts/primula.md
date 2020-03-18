@@ -1,6 +1,6 @@
 +++
 title =  "Primula"
-date  = "2019-02-20"
+date  = "2020-03-17"
 tags = ["document"]
 categories = ["At the start of your PhD"]
 +++
@@ -12,8 +12,8 @@ Chalmers employees use the
 
 You log in with your CID username and password.
 
-Here you can also check how many vacation days you have left (or accumulated), your employment statements and records. 
+There you can also check how many vacation days you have left (or accumulated), your employment statements and records. 
 
-Do not forget to keep you *Personal Data* page up-to-date (in particular if you move to a new address).
+Do not forget to keep your *Personal Data* page up-to-date (in particular if you move to a new address).
 
-[//]: # (TODO: Add more info on how to use primula or links to pages where it's explained)
+You can find some tips on how to organize a business trip in our [*Traveling as a Chalmers' Employee* page](/posts/travelex) and a proper guide on how to apply for refund of business travel expenses on the right panel in the *Travel Expenses* section. In case of doubts, consult with your supervisor or manager.
