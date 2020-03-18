@@ -1,7 +1,14 @@
 +++
 title =  "News"
-date = "2019-10-07"
+date = "2020-03-18"
 +++
+
+{{< news_entry title="Nomination Phase for CSE PhD Ombudsman" link="ombudsman" >}}
+
+The nomination period for the PhD ombudsman at CSE is open!
+
+{{< /news_entry >}}
+
 
 {{< news_entry title="Join the Buddy System!" link="buddysystem" >}}
 
