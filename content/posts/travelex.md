@@ -1,5 +1,5 @@
 +++
-title =  "Traveling as a Chalmers' Employee"
+title =  "Business Trips"
 date = "2020-03-17"
 tags = ["document"]
 categories = ["General Information"]

@@ -1,5 +1,5 @@
 +++
-title =  "Benefits"
+title =  "Benefits (Discounts)"
 date = "2019-03-22"
 tags = ["document"]
 categories = ["General Information"]
@@ -25,7 +25,6 @@ This can be done through a portal called [Benify](https://www.benify.se/fps/welc
 
 As a Chalmers employee you can use [Chalmers Plus](http://plus.portal.chalmers.se/) to get discounts on various goods and services such as: 
 car rentals, travel trolleys, hi-fi devices, Apple computers...
-
 
 ## Mecenat
 

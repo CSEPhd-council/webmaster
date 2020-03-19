@@ -34,7 +34,7 @@
 				<a href="{{ $baseUrl }}/categories/{{ $name | urlize }}">
 					<span class="doc-list-category">{{ $name | humanize | title }}</span>
 				</a>
-				<ul>{{ range $taxonomy.Pages }}
+				<ul>{{ range sort $taxonomy.Pages "Weight" "desc" }}
 					<li><a href="{{ .RelPermalink }}">
 							<span>{{ .Title }}{{ if .Draft }} #Draft{{ end }}</span>
 							<span class="doc-entry-meta"><!--(<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 02, 2006" }}</time>)--></span>

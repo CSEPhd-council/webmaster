@@ -1,9 +1,14 @@
 +++
-title = "Exams"
+title = "Courses & Certificates"
 date  = "2019-03-20"
 tags = ["document"]
 categories = ["General Information"]
 +++
+
+## PhD-level Courses
+
+TODO: how to register and report credits for phd-level courses
+
 
 ## Exam Registration / Check registered credits 
 
@@ -15,6 +20,13 @@ categories = ["General Information"]
 **(important : make sure you are in the Doctoral Portal! If you end up in the Student Portal "your account doesn't have permission to use the service")**
 
 
-## Course schedules, room info
+## Course Schedules, room info
 In [Time-edit](https://se.timeedit.net/web/chalmers/db1/public/##) you can find information on *when* and *where* a course is given at Chalmers.
+
+
+## List of Passed Courses and Certificate
+
+Having an official list of passed courses can be useful i.e. when applying for scholarship, and to submit your Licentiate / PhD defence request.
+
+[Student portal](https://student.portal.chalmers.se/en/chalmersstudies/Pages/services.aspx)
 
