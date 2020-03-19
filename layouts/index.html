@@ -58,7 +58,7 @@
 			<a href="{{ $baseUrl }}/categories/council-documents">
 				<span class="doc-list-category">Council Documents</span>
 			</a>
-			<ul>{{ range sort $taxonomy.Pages "Weight" }}
+			<ul>{{ range sort $taxonomy.Pages "Weight" "desc" }}
 				<li><a href="{{ .RelPermalink }}">
 						<span>{{ .Title }}{{ if .Draft }} #Draft{{ end }}</span>
 						<span class="doc-entry-meta"></span>

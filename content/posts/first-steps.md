@@ -21,6 +21,7 @@ Also, if you come from another country you should also read the [New in Sweden](
 - **Mailing Lists**: Your administrative officer should add you (or tell you who to ask) to the department (all.cse [at] chalmers.se) and division mailing lists, as well as the department's PhD students mailing list (phd.cse [at] chalmers.se).
 - **Talk with your Manager**: They will probably want to meet you too and have the introductory meeting.
 - **Personal Information and Profiles**: You should update your personal information and point of contact (next of kin, etc) at [Primula](https://personal.portal.chalmers.se/chalmers/).
+- **Join the Student Union**: It is **mandatory** that PhD students be part of the student union. [Find information here](posts/student-union)
 
 
 ### Organisational Structure at CSE

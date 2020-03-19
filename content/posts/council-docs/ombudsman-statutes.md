@@ -3,7 +3,7 @@ title = "Ombudsman Statutes"
 date = "2020-03-16"
 tags = ["document"]
 categories = ["Council Documents"]
-weight = 500
+weight = 1000
 +++
 
 ## Statutes of the Computer Science and Engineering (CSE) PhD student Ombudsman

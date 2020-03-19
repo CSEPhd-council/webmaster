@@ -3,7 +3,7 @@ title = "Council Statutes"
 date = "2018-05-09"
 tags = ["document"]
 categories = ["Council Documents"]
-weight = 10
+weight = 10000
 +++
 
 # Statutes of the Computer Science and Engineering (CSE) PhD Student Council
