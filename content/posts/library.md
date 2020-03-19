@@ -2,7 +2,7 @@
 title =  "Library"
 date  = "2019-03-20"
 tags = ["document"]
-categories = ["At the start of your PhD"]
+categories = ["General Information"]
 +++
 
 ## Access material when off-campus
