@@ -1,11 +1,11 @@
 +++
 title =  "News"
-date = "2020-03-18"
+date = "2020-03-30"
 +++
 
 {{< news_entry title="Nomination Phase for CSE PhD Ombudsman" link="ombudsman" >}}
 
-The nomination period for the PhD ombudsman at CSE is open!
+The nomination period for the PhD ombudsman at CSE is open until 19th of April, 2020!
 
 {{< /news_entry >}}
 

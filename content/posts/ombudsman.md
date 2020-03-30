@@ -6,7 +6,7 @@ categories = ["Get Involved"]
 +++
 
 ### We're looking for a local PhD Ombudsman
-### Nominee Deadline : TBD
+### Nominee Deadline : 19th of April 2020
 
 ---
 
