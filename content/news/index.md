@@ -3,9 +3,9 @@ title =  "News"
 date = "2020-03-30"
 +++
 
-{{< news_entry title="Nomination Phase for CSE PhD Ombudsman" link="ombudsman" >}}
+{{< news_entry title="CSE PhD Ombudsman Election Results" link="ombudsman" >}}
 
-The nomination period for the PhD ombudsman at CSE is open until 19th of April, 2020!
+Matthías Páll Gissurarson is the new local Ombudsman for the PhD students at CSE
 
 {{< /news_entry >}}
 
