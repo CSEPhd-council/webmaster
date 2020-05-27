@@ -15,7 +15,7 @@ Matthías was elected in during May of 2020.
 [Here you can find the official statute](/posts/council-docs/ombudsman-statutes) for the CSE PhD Ombudsman.
 
 
-Despite there being __[several different](https://www.dokt.chs.chalmers.se/support-for-phd-students/)__ contacts
+Despite there being <u>[several different](https://www.dokt.chs.chalmers.se/support-for-phd-students/)</u> contacts
 that are there to help you, such as the Doktorandombud (DOMB), in agreement with the CSE Research School we
 re-introduce the position of the CSE PhD Ombudsman as an elected PhD student that has the local role to listen
 and help other PhD students by giving an objective point of view on difficult, or sometimes tedious, PhD related
