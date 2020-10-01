@@ -5,6 +5,8 @@
     {{ with $linkname := .Get "link" }}
         {{ with $link := (index (union (where $.Site.RegularPages "Title" $linkname ) (where $.Site.RegularPages ".File.TranslationBaseName" $linkname )) 0) }}
             <a href="{{ $link.RelPermalink }}">
+        {{ else }}
+            <a href="{{ $linkname }}">
         {{ end }}
     {{ end }}
         <h3>{{ .Get "title" }}</h3>

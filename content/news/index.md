@@ -1,13 +1,22 @@
 +++
 title =  "News"
-date = "2020-03-30"
+date = "2020-10-01"
 +++
+
+{{< news_entry title="New PhD Student Council for 2020-2021" link="#the-council" >}}
+
+The election held during August led to the new council formed by Sólrún, Linda, Irene, and Roc.
+
+{{< /news_entry >}}
+
+
 
 {{< news_entry title="CSE PhD Ombudsman Election Results" link="ombudsman" >}}
 
 Matthías Páll Gissurarson is the new local Ombudsman for the PhD students at CSE
 
 {{< /news_entry >}}
+
 
 
 {{< news_entry title="Join the Buddy System!" link="buddysystem" >}}
