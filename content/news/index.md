@@ -1,7 +1,14 @@
 +++
 title =  "News"
-date = "2020-10-01"
+date = "2021-03-30"
 +++
+
+{{< news_entry title="New PhD Student Council representative for 2020-2021" link="#the-council" >}}
+
+During February we had a fill-in election, and Mazen Mohammad joined the council for the remainder of this lective year.
+
+{{< /news_entry >}}
+
 
 {{< news_entry title="New PhD Student Council for 2020-2021" link="#the-council" >}}
 
