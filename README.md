@@ -20,6 +20,7 @@ It's easier to work with github pages this way, since the webpage needs to be pu
 - Once you have made changes, make sure to commit and push them to github so everyone can work from those later. If you have some changes you are working with not ready to be published, commit to a different branch and push it if you want. Make sure to merge it to master when they are ready to be published.
 - Run `hugo` to generate the website. This will generate and save the files for the site in `../publish` (that's configured in `config.toml`).
 - Go to the `publish` repo you cloned, commit and push the git repository (you should make sure the changes you made are okay, just in case). After that, the updated website should be available momentarily at https://csephd-council.github.io/
+- You can (finally!) also find it at https://phdcouncil.cse.chalmers.se
 
 ## As a contributor? 
 You can mark things that need improving with a TODO comment in markdown. The following should be in its own line:
