@@ -5,6 +5,5 @@ publishdir = "../publish"
 theme = "hugo-theme-bootie-docs"
 
 [params]
-  description = "Hello, fellow CSE PhD students! Welcome to the PhD council website :) We are in the process of updating this site (2019-10-07).<br /> Don't hesitate to contact us (**phdcouncil.cse [at] chalmers.se**) if you don't find the answers to your questions here!"
+  description = "Hello, fellow CSE PhD students! Welcome to the PhD council website :) <br /> Don't hesitate to contact us (**phdcouncil.cse [at] chalmers.se**) if you don't find the answers to your questions here!"
   DateForm = "02 Jan 2006"
-  
