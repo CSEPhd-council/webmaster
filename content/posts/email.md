@@ -2,7 +2,7 @@
 title =  "Email"
 date = "2019-03-22"
 tags = ["document"]
-categories = ["At the start of your PhD"]
+categories = ["Workplace"]
 +++
 
 ## Setting up your Chalmers email account

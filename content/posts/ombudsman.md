@@ -2,7 +2,7 @@
 title = "Ombudsman"
 date = "2020-03-16"
 tags = ["document"]
-categories = ["Get Involved"]
+categories = ["Council Activities"]
 +++
 
 ### CSE PhD Ombudsman: Matthías Páll Gissurarson (pallm [at] chalmers [dot] se)

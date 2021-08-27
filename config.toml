@@ -1,5 +1,5 @@
 title = "CSE PhD council"
-copyright = "Copyright 2019 CSE PhD council"
+copyright = "CSE PhD council"
 publishdir = "../publish"
 
 theme = "hugo-theme-bootie-docs"

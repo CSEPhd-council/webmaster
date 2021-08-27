@@ -2,7 +2,7 @@
 title =  "Library"
 date  = "2019-03-20"
 tags = ["document"]
-categories = ["General Information"]
+categories = ["Workplace"]
 +++
 
 ## Access material when off-campus

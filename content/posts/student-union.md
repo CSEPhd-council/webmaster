@@ -2,7 +2,7 @@
 title =  "Student Union"
 date = "2019-03-22"
 tags = ["document"]
-categories = ["At the start of your PhD"]
+categories = ["PhD Specifics"]
 +++
 
 ## The Student Union / Doctorand Students Guild (DS)

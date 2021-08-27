@@ -2,7 +2,7 @@
 title =  "Rooms"
 date = "2019-03-22"
 tags = ["document"]
-categories = ["General information"]
+categories = ["Workplace"]
 +++
 
 ## Rooms

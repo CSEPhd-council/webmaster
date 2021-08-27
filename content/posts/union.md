@@ -2,7 +2,7 @@
 title =  "Worker Union"
 date= "2019-02-20"
 tags = ["document"]
-categories = ["At the end of your PhD"]
+categories = ["Living in Sweden"]
 +++
 
 ## Union

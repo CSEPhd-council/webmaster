@@ -2,7 +2,7 @@
 title =  "Internet"
 date  = "2019-03-20"
 tags = ["document"]
-categories = ["At the start of your PhD"]
+categories = ["Workplace"]
 +++
 
 ## Wireless access to eduroam

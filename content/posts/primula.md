@@ -2,7 +2,7 @@
 title =  "Primula"
 date  = "2020-03-17"
 tags = ["document"]
-categories = ["At the start of your PhD"]
+categories = ["Workplace"]
 +++
 
 ## Report vacations, leave, expenses

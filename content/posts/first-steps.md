@@ -2,7 +2,7 @@
 title =  "First Steps"
 date  = "2020-03-19"
 tags = ["document"]
-categories = ["At the start of your PhD"]
+categories = ["Workplace"]
 weight = 10000
 +++
 

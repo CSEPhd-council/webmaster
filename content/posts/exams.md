@@ -2,7 +2,7 @@
 title = "Courses & Certificates"
 date  = "2019-03-20"
 tags = ["document"]
-categories = ["General Information"]
+categories = ["PhD Specifics"]
 +++
 
 ## PhD-level Courses

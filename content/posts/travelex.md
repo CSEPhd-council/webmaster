@@ -2,7 +2,7 @@
 title =  "Business Trips"
 date = "2020-03-17"
 tags = ["document"]
-categories = ["General Information"]
+categories = ["Workplace"]
 +++
 
 ## Chalmer's Guidelines

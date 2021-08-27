@@ -6,28 +6,16 @@
 <div class="row doc-main">
 	<!-- Main jumbotron for a primary marketing message or call to action -->
 	<h1>{{ .Site.Title }}</h1>
-	<p>{{ with .Site.Params.description }}{{ . | markdownify }}{{ else }}You can customize this text by params "description" in your <code>config.toml</code>.{{ end }}</p>
+	<p>{{ with .Site.Params.description }}{{ . | markdownify }}{{ end }}</p>
 
 </div>
-
-<p></p>
-
-{{ range first 1 (where .Site.Pages "Title" "News") }}
-	{{ if (ne (countwords .Content) 0) }}
-	<div class="row doc-main">
-		<h2>News</h2>
-		{{ .Content }}
-		<p class="doc-entry-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format .Site.Params.DateForm }}</time></p>
-	</div>
-	{{ end }}
-{{ end }}
 
 
 <div class="row doc-category">
 	<h2>Pro-tips: common FAQs</h2>
 	
 	<!-- Hacking this to appear in this specific order for better visibility -->
-	{{ range $name := (slice "get-involved" "general-information" "at-the-start-of-your-phd" "at-the-end-of-your-phd") }}
+	{{ range $name := (slice "workplace" "phd-specifics" "council-activities" "living-in-sweden") }}
 		{{ $taxonomy := $.Site.Taxonomies.categories.Get $name }}
 		<div class="col-md-3 col-sm-6">
 			<div class="home-card">
@@ -46,54 +34,6 @@
 		</div>
 	{{ end }}
 </div>
-
-<div class="row">
-	<!-- Main jumbotron for a primary marketing message or call to action -->
-
-	<h2 id="the-council">The Council</h2>
-
-	{{ $taxonomy := $.Site.Taxonomies.categories.Get "council-documents" }}
-	<div class="col-md-3 col-sm-6 col-sm-offset-3 col-md-offset-0">
-		<div class="home-card">
-			<a href="{{ $baseUrl }}/categories/council-documents">
-				<span class="doc-list-category">Council Documents</span>
-			</a>
-			<ul>{{ range sort $taxonomy.Pages "Weight" "desc" }}
-				<li><a href="{{ .RelPermalink }}">
-						<span>{{ .Title }}{{ if .Draft }} #Draft{{ end }}</span>
-						<span class="doc-entry-meta"></span>
-					</a>
-				</li>
-			{{ end }}
-			</ul>
-		</div>
-	</div>
-
-	<div class="col-lg-offset-0 col-lg-9 col-md-9 col-xs-12 row" id="council-member-pictures">
-		<div class="col-sm-4 col-xs-6">
-			<a href="https://www.chalmers.se/en/staff/Pages/linda-erlenhov.aspx" target="_blank"><img src="linda.jpg" /></a>
-		</div>
-		<div class="col-sm-4 col-xs-6">
-			<a href="https://www.chalmers.se/en/staff/Pages/lobo.aspx" target="_blank"><img src="irene.jpg" /></a>
-		</div>
-		<div class="col-sm-4 col-xs-6">
-			<a href="https://www.chalmers.se/en/staff/Pages/roc-ramon.aspx" target="_blank"><img src="roc.jpg" /></a>
-		</div>
-		<div class="col-sm-4 col-xs-6">
-			<a href="https://www.chalmers.se/en/staff/Pages/mazenm.aspx" target="_blank"><img src="mazenm.jpg" /></a>
-		</div>
-		<div class="col-sm-4 col-xs-6">
-			<a href="https://www.chalmers.se/en/staff/Pages/slrn.aspx" target="_blank"><img src="solrun.jpg" /></a>
-		</div>
-	</div>
-</div>
-
-{{ range where .Site.Pages "Title" "_index" }}
-	<div class="row doc-main">
-		<p class="doc-entry-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format .Site.Params.DateForm }}</time></p>
-		{{ .Content }}
-	</div>
-{{ end }}
 
 </main>
 
