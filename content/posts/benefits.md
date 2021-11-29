@@ -21,11 +21,6 @@ This can be done through a portal called [Benify](https://www.benify.se/fps/welc
 1. Print the form and attach your original receipt
 1. Send it to LRS using an envelop in the post room (put it in the outgoing internal mail pile)
 
-## Chalmers discounts
-
-As a Chalmers employee you can use [Chalmers Plus](http://plus.portal.chalmers.se/) to get discounts on various goods and services such as: 
-car rentals, travel trolleys, hi-fi devices, Apple computers...
-
 ## Mecenat
 
 The [Mecenat](https://mecenat.com/se/om-mecenat/vara-kort) card gives you access to more student discounts (than just the DS card). Very useful, keep track of sales with the app!
