@@ -8,16 +8,20 @@
 	<h1>{{ .Site.Title }}</h1>
 	<p>{{ with .Site.Params.description }}{{ . | markdownify }}{{ end }}</p>
 
+	<h3>DS's PhD Student Guide</h3>
+	<p>
+	DS has prepared a website with a lot of information about the university and living in Sweden, you should check it out! <a href="https://www.notion.so/Unofficial-PhD-Student-Guide-370f7fdc63ef42c8bbfd1bc9b1bb878e" target="_blank">https://www.notion.so/Unofficial-PhD-Student-Guide-370f7fdc63ef42c8bbfd1bc9b1bb878e</a>
+	</p>
 </div>
 
 
 <div class="row doc-category">
-	<h2>Pro-tips: common FAQs</h2>
+	<h2>Pages</h2>
 	
 	<!-- Hacking this to appear in this specific order for better visibility -->
-	{{ range $name := (slice "workplace" "phd-specifics" "council-activities" "living-in-sweden") }}
+	{{ range $name := (slice "phd-specifics" "workplace" "council-activities") }}
 		{{ $taxonomy := $.Site.Taxonomies.categories.Get $name }}
-		<div class="col-md-3 col-sm-6">
+		<div class="col-md-4 col-sm-6">
 			<div class="home-card">
 				<a href="{{ $baseUrl }}/categories/{{ $name | urlize }}">
 					<span class="doc-list-category">{{ $name | humanize | title }}</span>

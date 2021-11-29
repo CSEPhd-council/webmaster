@@ -3,6 +3,7 @@ title =  "Buddy System"
 date = "2019-10-07"
 tags = ["document"]
 categories = ["Council Activities"]
+weight = 80
 +++
 
 ### We're looking to expand our buddy pool with buddies from all divisions!

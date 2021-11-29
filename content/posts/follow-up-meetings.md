@@ -5,6 +5,10 @@ tags = ["document"]
 categories = ["PhD Specifics"]
 +++
 
+## What are Follow-up Meetings?
+
+TODO
+
 ## Scheduling
 You should have at least one follow-up meeting every year, the first one being about 6 months after you start working at Chalmers. If things happen that might prevent you from following the plan set in your most recent follow-up meeting, such as sick leave or parental leave, you should schedule a new meeting as soon as possible to discuss what changes are needed.
 
