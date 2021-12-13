@@ -23,4 +23,7 @@ weight = 100
 	<div class="col-sm-4 col-xs-6">
 		{{< figure src="/ziming.jpg" link="https://www.chalmers.se/en/staff/Pages/ziming.aspx" target="_blank" caption="Ziming Wang" alt="Ziming" >}}
 	</div>
+	<div class="col-sm-4 col-xs-6">
+		{{< figure src="/emil.jpg" link="https://www.chalmers.se/en/staff/Pages/caremil.aspx" target="_blank" caption="Emil Carlsson" alt="Emil" >}}
+	</div>
 </div>
