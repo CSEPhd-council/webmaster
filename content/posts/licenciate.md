@@ -9,7 +9,7 @@ About halfway through your PhD studies at Chalmers you are required to defend yo
 
 The following document has information on how to prepare for the seminar. Note there's specific guidelines for CSE, make sure to adhere to those too: <https://intranet.chalmers.se/en/tools-support/doctoral-studies-support/licentiate/preparations-for-licentiate-seminars/>
 
-To be eligible for the Licentiate degree you are required to have completed 30 credits, 9 of which need to be from GTS courses, several of which need to be specific courses, as well as N credits in non-GTS courses, for which you should discuss with your examiner in advance if they will be eligible for your education. You can find more information on the required GTS courses here: <https://intranet.chalmers.se/en/tools-support/doctoral-studies-support/courses/courses-and-activities-within-gts/>
+If you are a Chalmers student, to be eligible for the Licentiate degree you are required to have completed a series of credits, some of which need to be from specific GTS courses. You can find more information on the required GTS courses here: <https://intranet.chalmers.se/en/tools-support/doctoral-studies-support/courses/courses-and-activities-within-gts/>
 
 The thesis should follow the guidelines given, which can be found at <https://intranet.chalmers.se/en/tools-support/doctoral-studies-support/licentiate/layout-and-printing-of-licentiate-thesis/>
 
