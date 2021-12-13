@@ -9,19 +9,11 @@ categories = ["Workplace"]
 ## Health expense refund
 
 As a Chalmers employee you have the right to be refunded for up to 2000SEK/year for expenses related to health and wellness. 
-This can be done through a portal called [Benify](https://www.benify.se/fps/welcomeCustomer.do?nav.id=520). There you can directly buy discounted gym memberships, book massages, etc, making use of your wellness refund. You can also send in receipts and be reimbursed, see below: 
 
-### How to claim expenses and to get refunds
+Find more information at the intranet https://intranet.chalmers.se/en/working-at-chalmers/working-environment-health/health/wellness/
 
-1. Go to [insidan](http://www.chalmers.se/insidan) 
-1. On the right-most column select *Chalmers Plus* in the menu under 'E-tjanst', clic *visa*
-1. Insert CID and CID-password
-1. Click on 'wellness receipts'
-1. Follow instruction on how to register a receipt (useful instructions in english also under 'How do I register my expenses?'
-1. Print the form and attach your original receipt
-1. Send it to LRS using an envelop in the post room (put it in the outgoing internal mail pile)
 
 ## Mecenat
 
-The [Mecenat](https://mecenat.com/se/om-mecenat/vara-kort) card gives you access to more student discounts (than just the DS card). Very useful, keep track of sales with the app!
+The [Mecenat](https://mecenat.com/se/om-mecenat/vara-kort) card from DS gives you access to more student discounts (than just the DS card). Very useful, keep track of sales with the app!
 (Apple, Swebus, Comviq, Tele2, Tre, SF Cinema, Adlibris, ...)

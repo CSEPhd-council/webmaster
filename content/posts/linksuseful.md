@@ -10,6 +10,8 @@ categories = ["Workplace"]
 
 [//]: # (TODO: Find the proper link in the intranet instead of insidan. I couldn't find it now :S)
 
+[Unofficial PhD Student Guide by DS](https://www.notion.so/Unofficial-PhD-Student-Guide-370f7fdc63ef42c8bbfd1bc9b1bb878e)
+
 [Roles and Responsabilities](https://intranet.chalmers.se/en/about-chalmers/organisation/doctoral-studies/roles-and-responsibilities-in-doctoral-studies/)
 
 [Intranet](https://intranet.chalmers.se/en/) Here you might be able to find most of the information you might need about anything in the PhD. The drawbacks are there's also a lot of information that might not be relevant to you so things are sometimes difficult to find. Requires login.
